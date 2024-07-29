@@ -1,5 +1,5 @@
 # NGS Data Analysis and Transcriptome Assembly
-* Organism selected: Escherichia coli
+* Organism Escherichia coli
 
 ## Purpose/Goal of the pipeline
 * The pipeline has to create a reference genome database using the E.coli DNA-seq data.
